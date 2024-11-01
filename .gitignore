@@ -24,4 +24,3 @@ dist-ssr
 *.sw?
 .vercel
 src/services/api-client.ts
-src/services/api-client.ts
